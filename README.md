@@ -1,4 +1,4 @@
-# Titanic-Learn_from_disaster
+# Titanic-Learn from disaster
 My attempt in the  Kaggle machine learning competition "Titanic - Machine Learning from Disaster".
 
 The Titanic competition was my first attempt in the world of Data Science and Machine Learning. Having a background in Physics and Biomedical Engineering it was a great opportunity to put my analytic skills to test and expand to the Data universe!
